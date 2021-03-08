@@ -1,0 +1,9 @@
+@import "~bulma/sass/utilities/_all.sass";
+@import "~bulma/bulma";
+
+@import "./fonts.allrounder";
+
+body {
+    background-image: linear-gradient(rgb(54, 9, 80), rgb(29, 3, 54));
+    font-family: 'Allrounder' !important;
+}

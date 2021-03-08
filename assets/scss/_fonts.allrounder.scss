@@ -1,0 +1,26 @@
+/**
+ * GENERIC.FONT.ALLROUNDER
+ *
+ * @description : A default font included for demonstration
+ *                Remove this if you're not using it…
+ *
+ */
+
+// Regular
+@font-face {
+    font-family: 'Allrounder';
+    font-display: swap;
+    src: url('~assets/fonts/allrounder/AllrounderGrotesk-Regular.woff2') format('woff2'),
+         url('~assets/fonts/allrounder/AllrounderGrotesk-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Allrounder';
+    font-display: swap;
+    src: url('~assets/fonts/allrounder/AllrounderGrotesk-Bold.woff2') format('woff2'),
+         url('~assets/fonts/allrounder/AllrounderGrotesk-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
